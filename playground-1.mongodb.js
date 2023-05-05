@@ -51,7 +51,7 @@
 //     }
 //   }
 // }])
-
+//Dashboard
 {
   /* <iframe style="background: #F1F5F4;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);width: 100vw;height: 100vh;"  src="https://charts.mongodb.com/charts-project-0-ywrbx/embed/dashboards?id=64557941-885f-4c07-8d65-e1fb``c7534a94&theme=light&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"></iframe> */
 }
